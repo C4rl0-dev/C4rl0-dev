@@ -2,7 +2,7 @@
 
 Estudiante de 7mo ciclo en la carrera de Ingeniería de Sistemas Computacionales. Me encanta aprender nuevas tecnologías y colaborar en proyectos innovadores.
 
-- 🌱 Actualmente aprendiendo python, desarrollo web en área fronted y desarrollo de aplicaciones moviles.
+- 🌱 Actualmente estoy aprendiendo python, desarrollo web en área fronted y desarrollo de aplicaciones moviles.
 - 📫 Contacto: cgcarlo083@gmail.com  /  +51 914583681
 - 💭 Ansío aprender nuevas cosas y más aún si es junto a personas que aman este mundo tanto como yo.
 
