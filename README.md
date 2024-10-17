@@ -15,5 +15,4 @@ Estudiante de 7mo ciclo en la carrera de Ingeniería de Sistemas Computacionales
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
 ## 📈 Mis estadísticas en GitHub:
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=C4r0-dev&show_icons=true&theme=radical)
-
+![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=C4rl0-dev&show_icons=true&theme=radical)
